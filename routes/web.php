@@ -16,6 +16,15 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/services', function () {
+    return view('services');
+});
+
+Route::get('/service', function () {
+    return view('service');
+});
+
+
 Route::get('/sitemap', function () {
     Sitemap::create()
         ->add(Url::create('/'))

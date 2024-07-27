@@ -10,7 +10,7 @@
         "hot": "mix watch --hot",
         "prod": "npm run production",
         "production": "mix --production"
-    },
+      },
     "author": "Your Name",
     "license": "MIT",
     "devDependencies": {
