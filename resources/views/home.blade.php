@@ -5,5 +5,5 @@
 
 @section('content')
     <h1>Welcome to the Home Page</h1>
-    <p>This is the home page of the  lal855225489655lalaalal best SEO Laravel sample application.</p>
+    <p>test the test</p>
 @endsection
