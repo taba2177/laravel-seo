@@ -5,5 +5,5 @@
 
 @section('content')
     <h1>Welcome to the Home Page</h1>
-    <p>test the test</p>
+    <p>test the tfgfdgfgdfgdt</p>
 @endsection
