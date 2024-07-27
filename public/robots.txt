@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /login/
 Disallow: /register/
 
-Sitemap: http://yourdomain.com/sitemap.xml
+Sitemap: https://starspa.com.sa/sitemap.xml
